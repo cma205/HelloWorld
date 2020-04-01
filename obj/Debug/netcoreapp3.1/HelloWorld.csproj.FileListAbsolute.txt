@@ -1,0 +1,12 @@
+/Users/cm205/Desktop/repos/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/cm205/Desktop/repos/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/cm205/Desktop/repos/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/cm205/Desktop/repos/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/cm205/Desktop/repos/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/cm205/Desktop/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/cm205/Desktop/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/cm205/Desktop/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/cm205/Desktop/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/cm205/Desktop/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/cm205/Desktop/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/cm205/Desktop/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
